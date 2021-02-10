@@ -24,4 +24,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/mIUyB3X5P"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/mIUyB3X5P" /></a></p><br><br>
-<h5 align="center"><img src="https://profile-counter.glitch.me/eshohag/count.svg" alt="eshohag" /></h5>
+<h5 align="center"><img src="https://profile-counter.glitch.me/erajuahmed/count.svg" alt="erajuahmed" /></h5>

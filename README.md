@@ -20,7 +20,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=erajuahmed&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@erajuahmed" frameborder="0"></iframe>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

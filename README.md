@@ -18,7 +18,14 @@
 ![Raju's github stats](https://github-readme-stats.vercel.app/api/?username=erajuahmed&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=erajuahmed&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### Other Accounts 📫
+
+You can find and get touch with me on these accounts!
+
+| [<img src="https://github.com/erajuahmed/erajuahmed/blob/main/images/github.png" alt="github logo" width="34">](https://github.com/Delta456) | 
+[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/delta231_/) | 
+[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/delta2318) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Delta2315) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/10053063/delta231) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Delta456) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/Delta231)
+|---|---|---|---|---|---|---|---|
 
 
 <h3 align="left">Connect with me:</h3>

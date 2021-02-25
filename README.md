@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erajuahmed&label=Profile%20views&color=0e75b6&style=flat" alt="erajuahmed" /> </p>
 
-- 🔭 I’m currently working on [AML(Anti Money Laundering)](http://datasoft-bd.com/aml/)
+- 🔭 I’m currently working on [DataSoft(Anti Money Laundering)](http://datasoft-bd.com/aml/)
 
 - 🌱 I’m currently learning **Angular**
 

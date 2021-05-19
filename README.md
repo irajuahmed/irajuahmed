@@ -15,14 +15,14 @@
 
 - 📫 How to reach me **rajuahmed.329@gmail.com**
 
-![Raju's github stats](https://github-readme-stats.vercel.app/api/?username=mrajuahmed&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Raju's github stats](https://github-readme-stats.vercel.app/api/?username=rajuahmedm&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 ### Other Accounts 📫
 
 You can find and get touch with me on these accounts!
 
-| [<img src="https://github.com/mrajuahmed/mrajuahmed/blob/main/images/github.png" alt="github logo" width="34">](https://github.com/mrajuahmed) | [<img src="https://github.com/mrajuahmed/mrajuahmed/blob/main/images/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/marginalraju/) | [<img src="https://github.com/mrajuahmed/mrajuahmed/blob/main/images/Linkedin.png" alt="Linkedin Logo" width="24">](https://www.linkedin.com/in/raju-ahmed-263475126/)| [<img src="https://github.com/mrajuahmed/mrajuahmed/blob/main/images/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/5615778) 
+| [<img src="https://github.com/rajuahmedm/rajuahmedm/blob/main/images/github.png" alt="github logo" width="34">](https://github.com/rajuahmedm) | [<img src="https://github.com/rajuahmedm/rajuahmedm/blob/main/images/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/marginalraju/) | [<img src="https://github.com/rajuahmedm/rajuahmedm/blob/main/images/Linkedin.png" alt="Linkedin Logo" width="24">](https://www.linkedin.com/in/raju-ahmed-263475126/)| [<img src="https://github.com/rajuahmedm/rajuahmedm/blob/main/images/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/5615778) 
 |---|---|---|---|
 
 

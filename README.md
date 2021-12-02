@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [DataSoft Systems Bangladesh Limited (Anti Money Laundering)](http://datasoft-bd.com/aml/)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://rajuahmed.azurewebsites.net](https://rajuahmed.azurewebsites.net)
 

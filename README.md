@@ -17,6 +17,12 @@
 
 ![Raju's github stats](https://github-readme-stats.vercel.app/api/?username=irajuahmed&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+## 🏆 GitHub Trophies
+
+<a href="https://github.com/irajuahmed"><img src="https://github-profile-trophy.vercel.app/?username=irajuahmed&column=7" alt="irajuahmed" /></a>
+
+<br/>
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>

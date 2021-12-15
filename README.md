@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rajuahmed.azurewebsites.net](https://rajuahmed.azurewebsites.net)
 
-- 📝 I regularly write articles on [https://aspcodehunter.blogspot.com/](https://aspcodehunter.blogspot.com/)
+- 📝 I write articles on [C-SharpCorner](https://www.c-sharpcorner.com/members/marginal-raju)
 
 - 💬 Ask me about **ASP.NET, SQL, HTML5, CSS3, JQuery**
 

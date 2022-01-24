@@ -41,10 +41,6 @@ I always try to help others to solve their problems & that's make me happay. ðŸ˜
 
 <br>
 
-<p></p>
-
-<br>
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>

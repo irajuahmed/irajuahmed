@@ -18,7 +18,7 @@
 
 [![Raju's GitHub stats](https://github-readme-stats.vercel.app/api?username=irajuahmed&count_private=true&show_icons=true&theme=radical)](https://github.com/irajuahmed/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irajuahmed&" alt="irajuahmed" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irajuahmed&" alt="Raju Ahmed" /></p>
 
 ## 🏆 GitHub Trophies
 

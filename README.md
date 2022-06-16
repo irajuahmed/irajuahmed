@@ -17,10 +17,10 @@
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=irajuahmed&show_icons=true&hide_border=false&theme=radical" width="45%" height="50%"  align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=irajuahmed&theme=radical" width="45%" height="50%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=irajuahmed&show_icons=true&hide_border=true&theme=radical" width="45%" height="50%"  align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=irajuahmed&hide_border=true&theme=radical" width="45%" height="50%" >
 
-
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=irajuahmed&theme=react-dark&hide_border=true&area=true)
 <br /> 
 
 ## 🏆 GitHub Trophies

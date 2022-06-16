@@ -15,10 +15,13 @@
 
 - 📫 How to reach me **rajuahmed.329@gmail.com**
 
+## 🏆 Github Status
 
-[![Raju's GitHub stats](https://github-readme-stats.vercel.app/api?username=irajuahmed&count_private=true&show_icons=true&theme=radical)](https://github.com/irajuahmed/github-readme-stats)
+<img  src="https://github-readme-stats.vercel.app/api?username=irajuahmed&show_icons=true&hide_border=false&theme=radical" width="45%" height="50%"  align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=irajuahmed&theme=radical" width="45%" height="50%" >
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irajuahmed&" alt="Raju Ahmed" /></p>
+
+<br /> 
 
 ## 🏆 GitHub Trophies
 

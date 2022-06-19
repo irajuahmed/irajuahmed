@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://rajuahmed.azurewebsites.net](https://rajuahmed.azurewebsites.net)
+- 👨‍💻 Get in touch with me at [https://rajuahmed.azurewebsites.net](https://rajuahmed.azurewebsites.net)
 
 - 📝 I write articles on [C-SharpCorner](https://www.c-sharpcorner.com/members/marginal-raju)
 

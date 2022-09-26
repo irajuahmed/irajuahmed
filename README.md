@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **rajuahmed.329@gmail.com**
 
+- 📄 Know about my experiences in details- <a href="https://www.canva.com/design/DAFMCSYwLTw/qSwEv-arLwOV8JF_6Phn0g/view?utm_content=DAFMCSYwLTw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">Download CV</a>
+
 ## 🏆 Github Status
 
 <img  src="https://github-readme-stats.vercel.app/api?username=irajuahmed&show_icons=true&hide_border=true&theme=radical" width="45%" height="50%"  align="right" >

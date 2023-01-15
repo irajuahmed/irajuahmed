@@ -45,6 +45,7 @@ I always try to help others to solve their problems & that's make me happay. ðŸ˜
 - [Answer by Raju Ahmed for : Import text file into SQL server table using query or stored procedure](https://stackoverflow.com/questions/69826357/import-text-file-into-sql-server-table-using-query-or-stored-procedure/69835189#69835189)
 - [Answer by Raju Ahmed for: How do you use a cdn to host jQuery?](https://stackoverflow.com/questions/69892425/how-do-you-use-a-cdn-to-host-jquery/69892449#69892449)
 - [Answer by Raju Ahmed for: Incorrect syntax near 'Case'. Expecting ID, QUOTED_ID, or '.' Error in SQL Server](https://stackoverflow.com/questions/69695121/incorrect-syntax-near-case-expecting-id-quoted-id-or-error-in-sql-serve/69695188#69695188)
+- [Answer by Raju Ahmed for : How to detect if the value entered in HTML CSS input is a number](https://stackoverflow.com/questions/74675152/how-to-detect-if-the-value-entered-in-html-css-input-is-a-number/74675246#74675246)
 - [All answer by Raju Ahmed ](https://stackoverflow.com/users/5615778/raju-ahmed?tab=answers)
 <!-- STACKOVERFLOW:END -->
 

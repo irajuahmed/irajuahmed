@@ -63,7 +63,7 @@ I always try to help others to solve their problems & that's make me happay. ðŸ˜
 <tr><th>Find me on following(s)</th><th>Support me on</th></tr>
 <tr><td>
 
-| [<img src="https://github.com/irajuahmed/irajuahmed/blob/main/images/facebook.png" alt="github logo" width="34">](https://www.facebook.com/rajuahmed329) | [<img src="https://github.com/irajuahmed/irajuahmed/blob/main/images/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/marginalraju/) | [<img src="https://github.com/irajuahmed/irajuahmed/blob/main/images/Linkedin.png" alt="Linkedin Logo" width="24">](https://www.linkedin.com/in/raju-ahmed-263475126/)| [<img src="https://github.com/irajuahmed/irajuahmed/blob/main/images/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/5615778) 
+| [<img src="https://github.com/irajuahmed/irajuahmed/blob/main/images/facebook.png" alt="github logo" width="34">](https://www.facebook.com/rajuahmed329) | [<img src="https://github.com/irajuahmed/irajuahmed/blob/main/images/instagram.png" alt="instagram logo" width="24">](https://www.instagram.com/marginalraju/) | [<img src="https://github.com/irajuahmed/irajuahmed/blob/main/images/Linkedin.png" alt="Linkedin Logo" width="24">](https://www.linkedin.com/in/raju-ahmed-263475126/)| [<img src="https://github.com/irajuahmed/irajuahmed/blob/main/images/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/5615778) 
 |---|---|---|---|
 
 </td><td>

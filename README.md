@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irajuahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Raju Ahmed" /> </p>
 
-- 🔭 I’m currently working on [DataSoft Systems Bangladesh Limited (Anti Money Laundering)](http://datasoft-bd.com/aml/)
+- 🔭 I’m currently working in [Kuwait](#)
 
 - 🌱 I’m currently learning **ReactJS**
 

@@ -70,6 +70,18 @@ I always try to help others to solve their problems & that's make me happay. ðŸ˜
 
 </td></tr> </table>
 
+
+#### Previously I worked for:
+<p left="left">
+  <a href="https://leads.com.bd/" style="padding: 10px !important;"  target="_blank">
+    <img src="./images/leads.jpg" height="50" alt=https://leads.com.bd/">
+  </a>   
+  <a href="http://datasoft-bd.com/" style="padding: 10px !important;" target="_blank">
+    <img src="./images/DataSoft.png" height="50" alt="https://www.datasoft-bd.com/"> 
+  </a>
+</p>
+
+
 <!---
 comment here
 <h5 align="center">Visitor Counter: <img src="https://profile-counter.glitch.me/irajuahmed/count.svg" alt="irajuahmed" /></h5>

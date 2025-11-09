@@ -57,6 +57,23 @@ I always try to help others to solve their problems & that's make me happay. ðŸ˜
 
 ---
 
+#### Previously I worked for:
+<p left="left">   
+  <a href="https://rtl.com.bd/" style="padding: 10px !important;" target="_blank">
+    <img src="./images/reatil.jpg" width="100" height="50" alt="https://rtl.com.bd/"> 
+  </a>
+  <a href="https://leads.com.bd/" style="padding: 10px !important;"  target="_blank">
+    <img src="./images/leads.jpg" width="100" height="50" alt=https://leads.com.bd/">
+  </a>   
+
+  <a href="https://leads.com.bd/" style="padding: 10px !important;"  target="_blank">
+    <img src="./images/DataSoft.png" width="100" height="50" alt=https://leads.com.bd/">
+  </a>   
+
+</p>
+
+---
+
 <table align="center">
 <tr><th>Find me on following(s)</th><th>Support me on</th></tr>
 <tr><td>
@@ -70,16 +87,6 @@ I always try to help others to solve their problems & that's make me happay. ðŸ˜
 
 </td></tr> </table>
 
-
-#### Previously I worked for:
-<p left="left">
-  <a href="https://leads.com.bd/" style="padding: 10px !important;"  target="_blank">
-    <img src="./images/leads.jpg" height="50" alt=https://leads.com.bd/">
-  </a>   
-  <a href="http://datasoft-bd.com/" style="padding: 10px !important;" target="_blank">
-    <img src="./images/DataSoft.png" height="50" alt="https://www.datasoft-bd.com/"> 
-  </a>
-</p>
 
 
 <!---
